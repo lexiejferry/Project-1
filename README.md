@@ -18,6 +18,8 @@ A map relating NDVI values to State Tax rates in Baltimore County, Maryland
 
 - **Results:** There was determined to be a slightly negative correlation between NDVI and State Tax values with a correlation of -0.1434. This is most likely due to the distribution of residential property being located near forests in suburbs, versus commercial property being located more in the city center where there is less vegetation. For a better result, a differentiation between residential and commercial property would be needed.
 
+![alt text](https://github.com/lexiejferry/Project-1/
+
 **Software Used:** QGIS 3.2
 
 - **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
