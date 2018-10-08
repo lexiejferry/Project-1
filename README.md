@@ -20,6 +20,8 @@ A map relating NDVI values to State Tax rates in Baltimore County, Maryland
 
 ![alt text](https://github.com/lexiejferry/Project-1/blob/master/Project1map.png "Project1map")
 
+![alt text](https://github.com/lexiejferry/Project-1/blob/master/Chart_P1.PNG "Chart_P1")
+
 **Software Used:** QGIS 3.2
 
 - **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
